@@ -1,4 +1,7 @@
-👋 Hi, my name is Alexey!
+👋 Hi, my name is Alexey!<br/>
+👀 I’m interested in Web Development<br/>
+💞️ I’m looking to collaborate on webdev projects<br/>
+📫 How to reach me: Telegram @A14X4Y<br/>
 
 <!--
 **A14X4Y/A14X4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
